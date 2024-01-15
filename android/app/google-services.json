@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933946890106",
+    "project_id": "bolu-f55a2",
+    "storage_bucket": "bolu-f55a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933946890106:android:687803010d32cead41e8c3",
+        "android_client_info": {
+          "package_name": "com.hotel_booking.hotel_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7OQQtTPxdBQbV671v0CaBmQqkOJ9O_AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
